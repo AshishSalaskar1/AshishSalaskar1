@@ -5,7 +5,7 @@ Im Ashish and I'm working as a Python developer.
 You can connect with me on these networks:
 <!-- Your badges -->
 
-[![Linkedin](https://img.shields.io/badge/-Ashish Salaskar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashishsalaskar/)
+[![Linkedin](https://img.shields.io/badge/-Ashish_Salaskar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashishsalaskar/)
 [![Behance](https://img.shields.io/badge/-joykishan_sharma-191919?style=flat&labelColor=191919&logo=behance&logoColor=white)](https://www.behance.net/JoykishanSharma)
 [![Gmail](https://img.shields.io/badge/-joykishan120-c14438?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=joykishan120@gmail.com)
 [![CodePen](https://img.shields.io/badge/-joykishan_sharma-black?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/joykishan_sharma/pens/public)
