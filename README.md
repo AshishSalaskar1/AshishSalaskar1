@@ -2,7 +2,7 @@
 ### Hi there 👋, Im Ashish 
 I am currently working as a Python developer. Exploring the world of Data Science one step at a time. 
 
-### :focus:  Things that I'm currently working on: 
+### :dart:  Things that I'm currently working on: 
 * Building applications using Python
 * REST apis using Flask Framework
 * Solving interesting use cases using Machine Learning 
@@ -46,7 +46,7 @@ I am currently working as a Python developer. Exploring the world of Data Scienc
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-[![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)]
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ##### :desktop_computer: OS's I use
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
