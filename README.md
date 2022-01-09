@@ -2,7 +2,7 @@
 ### Hi there 👋, Im Ashish 
 I am currently working as a Python developer. Exploring the  fascinating world of Data Science. 
 
-### :dart:  Things that I have expereince with: 
+### :dart:  Things that I have experience with: 
 * Machine Learning & Deep Learning
 * Building applications using Python
 * REST apis using Flask Framework
