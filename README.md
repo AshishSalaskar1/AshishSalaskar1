@@ -1,6 +1,6 @@
 
 ### Hi there 👋, Im Ashish 
-I am currently working as a Python developer. Exploring the  fascinating world of Data Science. 
+I am currently working as a Data Scientist. 
 
 ### :dart:  Things that I have experience with: 
 * Machine Learning & Deep Learning
