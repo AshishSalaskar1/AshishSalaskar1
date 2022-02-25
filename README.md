@@ -1,12 +1,12 @@
 
 ### Hi there 👋, Im Ashish 
-I am currently working as a Data Scientist. 
+I am currently working as a Data Scientist and exploring the exciting world of Data Science
 
 ### :dart:  Things that I have experience with: 
 * Machine Learning & Deep Learning
+* 2x Azure Certified
 * Building applications using Python
-* REST apis using Flask Framework
-* Solving interesting use cases using Data Science 
+* REST apis using Flask Framework 
 
 
 #### Want to connect? You can find me here:
