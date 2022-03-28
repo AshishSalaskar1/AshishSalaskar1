@@ -1,6 +1,6 @@
 
 ### Hi there 👋, Im Ashish 
-I am currently working as a Data Scientist and exploring the exciting world of Data Science
+Currently exploring the exciting world of Data Science
 
 ### :dart:  Things that I have experience with: 
 * Machine Learning & Deep Learning
@@ -22,6 +22,9 @@ I am currently working as a Data Scientist and exploring the exciting world of D
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AshishSalaskar1&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshishSalaskar1&layout=compact&theme=gotham&custom_title=Statistics)  
 ![ViewCount](https://komarev.com/ghpvc/?username=AshishSalaskar1&color=1A4730)
+
+#### ⭐ &nbsp; Github Trophies
+![Temp](https://github-profile-trophy.vercel.app/?username=AshishSalaskar1&column=8&theme=darkhub)
 
 #### 🛠 &nbsp;Tech Stack I Use
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
