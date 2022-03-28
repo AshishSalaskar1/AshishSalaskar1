@@ -19,7 +19,7 @@ Currently exploring the exciting world of Data Science
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ashishsalaskar1)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AshishSalaskar1&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham) &nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshishSalaskar1&layout=compact&theme=gotham&custom_title=Statistics)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AshishSalaskar1&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham) &nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshishSalaskar1&layout=compact&theme=gotham&custom_title=Statistics)  
 ![ViewCount](https://komarev.com/ghpvc/?username=AshishSalaskar1&color=1A4730)
 
 #### ⭐ &nbsp; Github Trophies
