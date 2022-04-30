@@ -25,7 +25,7 @@ Currently exploring the exciting world of Data Science
 #### ⭐ &nbsp; Github Trophies
 ![Temp](https://github-profile-trophy.vercel.app/?username=AshishSalaskar1&column=8&theme=darkhub)
 
-#### 🛠 &nbsp;Tech Stack I Use
+<!-- #### 🛠 &nbsp;Tech Stack I Use
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
@@ -41,7 +41,7 @@ Currently exploring the exciting world of Data Science
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-
+ -->
 
 
 
