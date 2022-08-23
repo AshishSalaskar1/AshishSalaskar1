@@ -1,10 +1,11 @@
 
 ### Hi there 👋, Im Ashish 
-Currently exploring the exciting world of Data Science
+Currently working as Machine Learning Engineer having experience with Data Science, Big Data and Python Development
 
 ### :dart:  Things that I have experience with: 
 * Machine Learning & Deep Learning
-* 2x Azure Certified
+* Big Data - Hadoop Ecosystem, Apache Spark, Databricks
+* 2x Azure Certified, 1x Databricks Certified
 * Building applications using Python
 * REST apis using Flask Framework 
 
@@ -18,8 +19,6 @@ Currently exploring the exciting world of Data Science
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@ashishsalaskar1)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ashishsalaskar1)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshishSalaskar1&layout=compact&theme=gotham&custom_title=Statistics)  
 ![ViewCount](https://komarev.com/ghpvc/?username=AshishSalaskar1&color=1A4730)
 
 #### ⭐ &nbsp; Github Trophies
