@@ -1,6 +1,6 @@
 
 ### Hi there 👋, Im Ashish 
-Currently working as Machine Learning Engineer having experience with Data Science, Big Data and Python Development
+Currently working as an SDE-III in Walmart India having experience with Data Science, Big Data, and Python Development
 
 ### :dart:  Things that I have experience with: 
 * Machine Learning & Deep Learning
