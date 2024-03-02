@@ -1,13 +1,13 @@
 
 ### Hi there 👋, Im Ashish 
-Currently working as an SDE-III in Walmart India having experience with Data Science, Big Data, and Python Development
+Currently working as an SDE-III in Walmart India having experience with Big Data, Python Development and a bit of Data Science...
 
 ### :dart:  Things that I have experience with: 
-* Machine Learning & Deep Learning
 * Big Data - Hadoop Ecosystem, Apache Spark, Databricks
 * 2x Azure Certified, 1x Databricks Certified
 * Building applications using Python
-* REST apis using Flask Framework 
+* REST apis using Flask Framework
+* Machine Learning & Deep Learning
 
 
 #### Want to connect? You can find me here:
@@ -15,7 +15,7 @@ Currently working as an SDE-III in Walmart India having experience with Data Sci
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishsalaskar1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishsalaskar/)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://ashishsalaskar1.medium.com/)
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Ashish-Salaskar)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/ashishSal98)
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@ashishsalaskar1)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ashishsalaskar1)
 
