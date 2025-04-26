@@ -1,13 +1,14 @@
 
 ### Hi there 👋, Im Ashish 
-Currently working as an SDE-III in Walmart India having experience with Big Data, Python Development and a bit of Data Science...
+I'm a SDE at Microsoft, with hands-on experience in Backend Development, Python, Big Data, and a touch of Data Science and Machine Learning Engineering.
+I specialize in building scalable systems, deploying machine learning models, and crafting reliable backend APIs.
 
 ### :dart:  Things that I have experience with: 
+* Backend Development
+* Building end-to-end AI Applications using Python
+* Machine Learning & Deep Learning
 * Big Data - Hadoop Ecosystem, Apache Spark, Databricks
 * 2x Azure Certified, 1x Databricks Certified
-* Building applications using Python
-* REST apis using Flask Framework
-* Machine Learning & Deep Learning
 
 
 #### Want to connect? You can find me here:
